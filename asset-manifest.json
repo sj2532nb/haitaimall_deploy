@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haitaimall_deploy/static/css/main.32193230.css",
+    "main.js": "/haitaimall_deploy/static/js/main.b9a2f869.js",
+    "static/media/jpg": "/haitaimall_deploy/static/media/c916edab7dccb4e39f2214a189ce44a7.15400d32533c2b64bd2a.jpg",
+    "static/media/jpeg": "/haitaimall_deploy/static/media/ddba95438d9f84a599ee4adb85a3c057.8539a25be91c29b8fda3.jpeg",
+    "index.html": "/haitaimall_deploy/index.html",
+    "main.32193230.css.map": "/haitaimall_deploy/static/css/main.32193230.css.map",
+    "main.b9a2f869.js.map": "/haitaimall_deploy/static/js/main.b9a2f869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32193230.css",
+    "static/js/main.b9a2f869.js"
+  ]
+}
