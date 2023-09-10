@@ -1,0 +1,11 @@
+{
+    "give_present":[
+        {"product_code":"PRODUCTGP000001", "src":"./img/9a4c484c617424d4dc596416aa3408b0.jpg", "title":"홈런볼 가방 DIY세트 응원부적", "discount_rate":"23", "cost_price":"23,900", "product_price":"31,000", "discount_price":"", "comment":"야구장인싸템,응원부적", "tag1":"", "tag2":"", "new":"", "MD_Pick":"MD_Pick", "sold_out":""},
+        {"product_code":"PRODUCTGP000002", "src":"./img/28b3171f373235de3061c8ba853a609d.jpg", "title":"자가비골라담기", "discount_rate":"20", "cost_price":"12,800", "product_price":"16,000", "discount_price":"", "comment":"", "tag1":"겉은바삭", "tag2":"케첩맛솔솔", "new":"new", "MD_Pick":"", "sold_out":""},
+        {"product_code":"PRODUCTGP000003", "src":"./img/2ba424c6d062c8ff6b9d7e50982f6877.jpg", "title":"2023년 화목 선물세트", "discount_rate":"24", "cost_price":"15,900", "product_price":"21,000", "discount_price":"", "comment":"모두가 좋아하는 달콤한 선물", "tag1":"푸짐한", "tag2":"과자선물", "new":"", "MD_Pick":"", "sold_out":""},
+        {"product_code":"PRODUCTGP000004", "src":"./img/0e23f620d4aae72bc516d82fbc0aa36f.jpg", "title":"2023년 행복 선물세트", "discount_rate":"32", "cost_price":"30,000", "product_price":"43,800", "discount_price":"", "comment":"", "tag1":"달달한", "tag2":"선물세트", "new":"", "MD_Pick":"", "sold_out":""},
+        {"product_code":"PRODUCTGP000005", "src":"./img/87b55ac9cbfdb625da99cd51d70e1e99.jpg", "title":"★해태제과 포키 POCKY 골라담기★", "discount_rate":"21", "cost_price":"18,900", "product_price":"23,800", "discount_price":"", "comment":"Share Hapiness!", "tag1":"리얼초코스틱", "tag2":"", "new":"", "MD_Pick":"", "sold_out":""},
+        {"product_code":"PRODUCTGP000006", "src":"./img/fe45b5a14fb4b41d3c3b0501a64adb01.jpg", "title":"다같이 티타임세트", "discount_rate":"25", "cost_price":"23,900", "product_price":"32,000", "discount_price":"", "comment":"커피와 잘어울리는 과자세트", "tag1":"커피와함께", "tag2":"휴식시간", "new":"", "MD_Pick":"", "sold_out":""},
+        {"product_code":"PRODUCTGP000007", "src":"./img/96f5041213d13a2f7ca62944586231ae.jpg", "title":"홈런볼 모음전", "discount_rate":"29", "cost_price":"10,900", "product_price":"15,300", "discount_price":"", "comment":"부러운 슈 속에 초코크림이 가득!", "tag1":"대한민국 No1", "tag2":"최대판매", "new":"", "MD_Pick":"", "sold_out":""}
+    ]
+}

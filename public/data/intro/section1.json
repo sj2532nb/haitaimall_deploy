@@ -1,0 +1,12 @@
+{
+    "sec1_slide":[
+        {"no":2, "src":"./img/bn_main_agree.jpg"},
+        {"no":3, "src":"./img/bn_main_visual16.jpg"},
+        {"no":1, "src":"./img/bn_main_korean_music.jpg"},
+        {"no":2, "src":"./img/bn_main_agree.jpg"},
+        {"no":3, "src":"./img/bn_main_visual16.jpg"},
+        {"no":1, "src":"./img/bn_main_korean_music.jpg"},
+        {"no":2, "src":"./img/bn_main_agree.jpg"},
+        {"no":3, "src":"./img/bn_main_visual16.jpg"}
+    ]
+}

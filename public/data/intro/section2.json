@@ -1,0 +1,8 @@
+{
+    "intro_new":[
+        {"product_code":"PRODUCTIN000001", "src":"./img/68e532a8bbe3af6bfd0da28b658fab03.jpg", "title":"후렌치파이 블루베리 192g", "discount_rate":"20", "cost_price":"4,200", "product_price":"4,200", "discount_price":"3,360", "comment":"", "tag1":"복음자리", "tag2":"블루베리잼 콜라보", "new":"new", "MD_Pick":""},
+        {"product_code":"PRODUCTIN000002", "src":"./img/988c62457bf6c6d9883d6fdbf0d2fdd7.jpg", "title":"오예스 콜드브루 384g", "discount_rate":"20", "cost_price":"7,000", "product_price":"7,000", "discount_price":"5,600", "comment":"", "tag1":"깊은풍미", "tag2":"커피맛", "new":"new", "MD_Pick":""},
+        {"product_code":"PRODUCTIN000003", "src":"./img/fddadd3d9e1f93e60e5e985b1a8fed0b.jpg", "title":"구운 콘스프볼 60g", "discount_rate":"20", "cost_price":"1,700", "product_price":"1,700", "discount_price":"1,360", "comment":"", "tag1":"열풍으로구운", "tag2":"고소짭짤한", "new":"new", "MD_Pick":""},
+        {"product_code":"PRODUCTIN000004", "src":"./img/6837406cb3591144ac8b7d2c2247cfbe.jpg", "title":"구운두유", "discount_rate":"20", "cost_price":"1,000", "product_price":"1,000", "discount_price":"800", "comment":"", "tag1":"신제품", "tag2":"구운두유", "new":"new", "MD_Pick":""}
+    ]
+}

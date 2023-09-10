@@ -1,0 +1,58 @@
+#section6{
+    width: 100%;
+    .container{
+        width: 100%;
+        max-width: 1400px;
+        margin: 0 auto;
+        .gap{
+            width: 100%;
+            padding: 0 20px;
+            margin: 0 0 95px 0;
+            .content{
+                width: 100%;
+                position: relative;
+                .slide-container{
+                    width: 100%;
+                    .slide-view{
+                        width: 100%;
+                        overflow: hidden;
+                        .slide-wrap{
+                            width: 100% * 3;
+                            display: flex;
+                            position: relative;
+                            margin: 0 0 0 -100%;
+                            .slide{
+                                width: 100%;
+                                a{
+                                    display: block;
+                                    width: 100%;
+                                    img{
+                                        width: 100%;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                >a{
+                    display: block;
+                    position: absolute;
+                    top: 40%;
+                    width: 20px;
+                    &.prev-btn{
+                        left: 3%;
+                        img{
+                            width: 100%;
+                        }
+                    }
+                    &.next-btn{
+                        right: 3%;
+                        img{
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

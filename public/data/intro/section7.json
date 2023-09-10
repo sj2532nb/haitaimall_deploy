@@ -1,0 +1,8 @@
+{
+    "MD_Pick":[
+        {"product_code":"PRODUCTMP000001", "src":"./img/2638bec24ba27019f4eafa12bfa23197.jpg", "title":"오예스 모음전", "discount_rate":"28", "cost_price":"12,900", "product_price":"18,000", "discount_price":"", "comment":"내 최애 오예스맛을 골라골라!", "tag1":"리얼케이크", "tag2":"오예스", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTMP000002", "src":"./img/96f5041213d13a2f7ca62944586231ae.jpg", "title":"홈런볼 모음전", "discount_rate":"29", "cost_price":"10,900", "product_price":"15,300", "discount_price":"", "comment":"부드러운 슈 속에 초코크림이 가득!", "tag1":"대한민국 No1", "tag2":"최대판매", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTMP000003", "src":"./img/2ba424c6d062c8ff6b9d7e50982f6877.jpg", "title":"2023년 화목 선물세트", "discount_rate":"24", "cost_price":"15,900", "product_price":"21,000", "discount_price":"", "comment":"모두가 좋아하는 달콤한 선물", "tag1":"푸짐한", "tag2":"과자선물", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTMP000004", "src":"./img/cc2fea5bcdb99c04813c4c2407446681.jpg", "title":"세계테마여행X 연양갱", "discount_rate":"10", "cost_price":"6,750", "product_price":"7,500", "discount_price":"", "comment":"국내 최장수 과자!Since 1945", "tag1":"당충전", "tag2":"국민간식", "new":"", "MD_Pick":""}
+    ]
+}

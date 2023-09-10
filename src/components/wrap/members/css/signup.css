@@ -1,0 +1,256 @@
+#signUp {
+  width: 100%;
+}
+#signUp .container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+#signUp .container .gap {
+  width: 100%;
+  padding: 100px 0;
+}
+#signUp .container .gap .title {
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 85px 20px 45px 20px;
+  text-align: center;
+}
+#signUp .container .gap .title h1 {
+  font-size: 42px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: #222;
+  line-height: normal;
+}
+#signUp .container .gap .title p {
+  padding: 5px 0;
+  font-size: 15px;
+  color: #383838;
+  font-weight: 300;
+  line-height: normal;
+}
+#signUp .container .gap .content {
+  width: 100%;
+  min-width: 280px;
+  padding: 0 20px;
+}
+#signUp .container .gap .content form {
+  width: 610px;
+  padding: 0 20px;
+  margin: 0 auto 55px auto;
+}
+#signUp .container .gap .content form table {
+  width: 100%;
+  padding: 0 0 15px 0;
+}
+#signUp .container .gap .content form table tbody {
+  width: 100%;
+}
+#signUp .container .gap .content form table tbody tr {
+  width: 100%;
+}
+#signUp .container .gap .content form table tbody tr td {
+  width: 100%;
+  padding: 5px 0;
+}
+#signUp .container .gap .content form table tbody tr td h4 {
+  display: inline-block;
+  width: 130px;
+  color: #000;
+  font-size: 15px;
+  margin: 10px 0;
+  line-height: 18px;
+  vertical-align: top;
+}
+#signUp .container .gap .content form table tbody tr td h4::after {
+  content: "*";
+  width: 11px;
+  height: 6px;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 6px;
+  color: #898989;
+  text-align: right;
+}
+#signUp .container .gap .content form table tbody tr td input {
+  width: calc(100% - 130px);
+  height: 38px;
+  line-height: 28px;
+  padding: 30px 2px 30px 15px;
+  font-size: 16px;
+  background: #f7f7f7;
+  border: 0;
+  color: #353535;
+  outline: none;
+}
+#signUp .container .gap .content form table tbody tr td p {
+  margin: 4px 0 4px 130px;
+  color: #898989;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 18px;
+}
+#signUp .container .gap .content form table tbody tr td p span {
+  font-size: 13px;
+  color: #f26323;
+  margin: 0 3px 0 0;
+}
+#signUp .container .gap .content form .agree-box {
+  width: 100%;
+}
+#signUp .container .gap .content form .agree-box .all-check-box {
+  width: 100%;
+  font-size: 12px;
+  line-height: 160%;
+  font-weight: 300;
+  padding: 50px 0 10px 0;
+  border-bottom: 1px solid #000;
+  color: #222;
+}
+#signUp .container .gap .content form .agree-box .all-check-box h4 {
+  font-size: 13px;
+  font-weight: 400;
+  margin: 10px 0;
+  line-height: 18px;
+}
+#signUp .container .gap .content form .agree-box .all-check-box h4 label {
+  font-size: 13px;
+  line-height: 18px;
+  color: #222;
+  letter-spacing: -0.13px;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .all-check-box h4 label input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  margin: 0 8px 0 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: url(../../../../../public/img/bg_join_check.png) no-repeat 50% 0;
+  background-size: cover;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .all-check-box h4 label input[type=checkbox]:checked {
+  background-position-y: 100%;
+}
+#signUp .container .gap .content form .agree-box .all-check-box p {
+  margin: 0 0 0 28px;
+  font-size: 12px;
+  line-height: 160%;
+  color: #222;
+  font-weight: 400;
+}
+#signUp .container .gap .content form .agree-box .each-check-box {
+  width: 100%;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box {
+  width: 100%;
+  line-height: 20px;
+  padding: 10px 0;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul {
+  width: 100%;
+  margin: 10px 0 5px 0;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul li {
+  width: 100%;
+  height: 26px;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul li h4 {
+  font-size: 13px;
+  font-weight: 400;
+  margin: 10px 0;
+  line-height: 18px;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul li h4 label {
+  font-size: 13px;
+  line-height: 18px;
+  color: #222;
+  letter-spacing: -0.13px;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul li h4 label input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  margin: 0 8px 0 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: url(../../../../../public/img/bg_join_check.png) no-repeat 50% 0;
+  background-size: cover;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box ul li h4 label input[type=checkbox]:checked {
+  background-position-y: 100%;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box h4 {
+  font-size: 13px;
+  font-weight: 400;
+  margin: 10px 0;
+  line-height: 18px;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box h4 label {
+  font-size: 13px;
+  line-height: 18px;
+  color: #222;
+  letter-spacing: -0.13px;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box h4 label input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  margin: 0 8px 0 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: url(../../../../../public/img/bg_join_check.png) no-repeat 50% 0;
+  background-size: cover;
+  cursor: pointer;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box h4 label input[type=checkbox]:checked {
+  background-position-y: 100%;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box .agree-content {
+  width: 100%;
+  height: 104px;
+  padding: 12px;
+  background: #f7f7f7;
+  color: #777;
+  overflow: auto;
+  font-size: 12px;
+  line-height: 20px;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box .agree-content h5 {
+  font-size: 16px;
+  letter-spacing: -0.16px;
+  line-height: 24px;
+}
+#signUp .container .gap .content form .agree-box .each-check-box .required-check-box .agree-content p {
+  font-weight: 300;
+  line-height: 150%;
+  padding: 0 0 17px 0;
+}
+#signUp .container .gap .content form .button-box {
+  width: 100%;
+  margin: 30px 0 0 0;
+  padding: 15px 0;
+}
+#signUp .container .gap .content form .button-box button {
+  width: 100%;
+  font-size: 17px;
+  padding: 15px;
+  letter-spacing: -0.9px;
+  font-weight: 600;
+  color: #fff;
+  background: #1a1a1a;
+  border: 1px solid #1a1a1a;
+  line-height: 18px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+#signUp .container .gap .content form .button-box button:hover {
+  opacity: 0.7;
+}

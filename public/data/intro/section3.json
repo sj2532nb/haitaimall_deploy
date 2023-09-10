@@ -1,0 +1,9 @@
+{
+    "sec3_slide":[
+        {"no":3, "src":"./img/bn_mainAdd1_3.png", "title":"해태몰 베스트 모음전", "comment":"누구랑 먹어도 언제먹어도 최고의 제품!"},
+        {"no":1, "src":"./img/bn_mainAdd1_1.png", "title":"해태 얼리어먹터", "comment":"누구보다 빠르게 신상과자를 만나보세요!"},
+        {"no":2, "src":"./img/bn_mainAdd1_2.png", "title":"우리아이 최애픽", "comment":"어린이 입맛도 취향존중 해주세요!"},
+        {"no":3, "src":"./img/bn_mainAdd1_3.png", "title":"해태몰 베스트 모음전", "comment":"누구랑 먹어도 언제먹어도 최고의 제품!"},
+        {"no":1, "src":"./img/bn_mainAdd1_1.png", "title":"해태 얼리어먹터", "comment":"누구보다 빠르게 신상과자를 만나보세요!"}
+    ]
+}

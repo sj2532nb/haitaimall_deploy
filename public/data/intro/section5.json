@@ -1,0 +1,8 @@
+{
+    "intro_best":[
+        {"product_code":"PRODUCTIB000001", "src":"./img/0e23f620d4aae72bc516d82fbc0aa36f.jpg", "title":"2023년 행복 선물세트", "discount_rate":"32", "cost_price":"30,000", "product_price":"43,800", "discount_price":"", "comment":"", "tag1":"달달한", "tag2":"선물세트", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTIB000002", "src":"./img/20f6870718b04cbe6c3df07acb40f898.jpg", "title":"[만두]명절세트", "discount_rate":"25", "cost_price":"30,000", "product_price":"39,750", "discount_price":"", "comment":"", "tag1":"명절선물", "tag2":"푸짐해요", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTIB000003", "src":"./img/96f5041213d13a2f7ca62944586231ae.jpg", "title":"홈런볼 모음전", "discount_rate":"20", "cost_price":"12,200", "product_price":"15,300", "discount_price":"", "comment":"", "tag1":"대한민국 No1", "tag2":"최대판매", "new":"", "MD_Pick":""},
+        {"product_code":"PRODUCTIB000004", "src":"./img/28fbc4776e495a4fc3e4ae8ab64f4ecd.jpg", "title":"에이스 모음전", "discount_rate":"20", "cost_price":"15,300", "product_price":"19,200", "discount_price":"", "comment":"", "tag1":"커피와함께", "tag2":"뉴욕치즈케익", "new":"", "MD_Pick":""}
+    ]
+}

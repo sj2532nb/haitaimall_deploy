@@ -1,0 +1,13 @@
+{
+    "sec4_slide":[
+        {"no":3, "src":"./img/bn_main1_3.jpg"},
+        {"no":1, "src":"./img/bn_main1_1.jpg"},
+        {"no":2, "src":"./img/bn_main1_2.jpg"},
+        {"no":3, "src":"./img/bn_main1_3.jpg"},
+        {"no":1, "src":"./img/bn_main1_1.jpg"}
+    ],
+    "sec4_right":[
+        {"no":1, "src":"./img/bn_main1_4.jpg"},
+        {"no":2, "src":"./img/bn_main1_5.jpg"}
+    ]
+}

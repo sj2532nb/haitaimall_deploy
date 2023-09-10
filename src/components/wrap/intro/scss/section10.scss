@@ -1,0 +1,36 @@
+#section10{
+    width: 100%;
+    .container{
+        width: 100%;
+        max-width: 1400px;
+        margin: 0 auto;
+        .gap{
+            width: 100%;
+            padding: 0 20px;
+            margin: 0 0 95px 0;
+            .title{
+                width: 100%;
+                text-align: center;
+                h2{
+                    font-size: 30px;
+                    font-weight: 600;
+                    letter-spacing: -1.8px;
+                    color: #222;
+                    margin: 0 0 12px 0;
+                    line-height: 150%;
+                }
+                a{
+                    font-size: 14px;
+                    color: #151515;
+                    display: inline-block;
+                    border: 1px solid #dedede;
+                    border-radius: 20px;
+                    line-height: 28px;
+                    padding: 0 16px;
+                    font-weight: 300;
+                    margin: 0 0 35px 0;
+                }
+            }
+        }
+    }
+}

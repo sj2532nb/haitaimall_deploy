@@ -1,0 +1,10 @@
+database: user
+
+create table user (
+    userId      VARCHAR(16) NOT NULL,
+    userPw      VARCHAR(16) NOT NULL,
+    userName    VARCHAR(30) NOT NULL,
+    userHp      VARCHAR(11) NOT NULL,
+    userEmail   VARCHAR(250) NOT NULL,
+    PRIMARY KEY(userId)
+);
